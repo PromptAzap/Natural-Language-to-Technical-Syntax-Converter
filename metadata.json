@@ -1,0 +1,5 @@
+{
+  "name": "Natural Language to Technical Syntax Converter",
+  "description": "An application that translates natural language requests in Arabic into a structured, technical, command-like format using the Gemini API.",
+  "requestFramePermissions": []
+}
